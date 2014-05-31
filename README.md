@@ -5,3 +5,7 @@ work_script
 
 ##change_sakujodata.pl
 データを削除データに変換する
+
+##change_newlinedata.pl
+データを改行データに変換する
+
